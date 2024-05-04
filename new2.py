@@ -2,7 +2,7 @@ import os
 import requests
 
 # URL of your Flask app endpoint
-url = 'https://0881-103-166-59-222.ngrok-free.app/upload'
+url = 'https://0703-103-166-59-222.ngrok-free.app/upload'
 
 # Prompt the user to input the folder name
 folder_path = input('Enter the folder path: ')
